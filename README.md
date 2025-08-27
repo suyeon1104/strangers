@@ -23,8 +23,6 @@
 
 ## 결과물 확인
 
----
-
 <img width="290" height="147" alt="image" src="https://github.com/user-attachments/assets/d337da3d-d512-412b-90bc-f176becd8aa4" />
 <img width="290" height="147" alt="image" src="https://github.com/user-attachments/assets/50615c27-06f9-45f2-93ed-38a9ca0f3f2f" />
 <img width="290" height="147" alt="image" src="https://github.com/user-attachments/assets/f823172b-f1bf-4fe8-92f5-fbf20201fe94" />
